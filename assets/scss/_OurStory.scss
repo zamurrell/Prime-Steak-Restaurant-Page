@@ -1,0 +1,44 @@
+.OurStory {
+	
+	padding: 100px 0;
+
+	.quote{
+		
+		color: $black;
+		margin: 0.5rem 0 3rem;
+
+		strong {
+			font-weight: 700;
+			color: $black;
+		}	
+	}
+
+	.res-btn {
+		padding: 20px;
+		display: inline-block;
+		border: 1px solid $black;
+		text-align: center;
+		text-decoration: none;
+		color: $black;
+		text-transform: uppercase;
+		transition: all .5s ease-in-out;
+		padding: 20px 40px;
+		font-family: $displayFont;
+		&:hover {
+			background-color: grey;
+			color: black;
+		}
+	}
+	
+	.video-img {
+		max-width: 500px;
+		height: 500px;
+		background: linear-gradient(135deg,rgba(0,0,0,.2)0,#002d77 100%);
+		background-image:url("https://i.pinimg.com/originals/e6/cd/7e/e6cd7e00e39a2aa837a03e8775b8ead2.jpg");
+		background-position: center;
+		background-size: cover;
+		margin: 0 auto;
+		background-position: left;
+	}
+
+}

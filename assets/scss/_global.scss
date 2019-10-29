@@ -1,0 +1,32 @@
+
+
+	h2 {
+		font-size: 3rem;
+		font-family: $displayFont;
+		margin: 0.5rem 0 3rem;
+		text-transform: capitalize;
+		color: #white;
+	}
+
+	h5 {
+		color: black;
+		font-size: 0.7rem;
+		margin: 0.5rem 0 1rem;
+		text-transform: uppercase;
+		letter-spacing: 5px;
+	}
+
+	p {
+		font-size: 1.1rem;
+		color: $paragraphColor;
+		line-height: 1.8;
+		margin: 0.5rem 0 3rem;
+		font-weight: 300;
+	}
+
+	a{
+		transition: all .5s ease-in-out;
+		&:hover{
+			color: $red;
+		}
+	}

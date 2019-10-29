@@ -1,0 +1,21 @@
+.RandomQuote {
+	
+	padding: 100px 0;
+	background: linear-gradient(135deg,rgba(0,0,0,.2)0,#002d77 100%);
+	background-image:url("https://assets.rbl.ms/10664115/origin.png");
+	background-position: bottom;
+	background-size: cover;
+
+	h1{
+	color: white;
+	font-family:$displayFont;
+	text-align: center;
+	padding: 15% 0;
+	}
+
+	.container{
+		height: 400px;
+	}
+
+}
+
