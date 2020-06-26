@@ -64,7 +64,7 @@
     "@babel/plugin-transform-async-to-generator": "^7.1.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "gulp-pug": "^4.0.1",
-    "hyperapp": "^0.12.0",
+    "hyperapp": "^0.18.5",
     "parcel-bundler": "^1.12.4",
     "svelte": "^3.4.3",
     "svelte-loader": "^2.13.4",
